@@ -4,6 +4,7 @@ public class FinalProject {
   public static void main(String [] args) {
     
     System.out.println("Get in Looser, we're going shopping!");
+    System.out.println("Its October 3Rd");
     
   }
 }
